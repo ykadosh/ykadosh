@@ -17,6 +17,7 @@
 
 ### 📕 Latest Blog Posts
 
+- [How I Made This Realistic Red Switch (dev.to)](https://dev.to/ykadosh/how-i-made-this-realistic-red-switch-pure-css-49g2)
 - [A Quick Overview of Webrix.js (dev.to)](https://dev.to/ykadosh/webrix-js-building-blocks-for-interactive-react-apps-4m54)
 - [Don’t Mix Controlled and Uncontrolled Values In React (medium.com)](https://betterprogramming.pub/dont-mix-controlled-uncontrolled-values-in-react-e7ab191d8dc4)
 - [Balancing Responsibilities in Software Components (medium.com)](https://medium.com/swlh/balancing-responsibilities-in-software-components-b0be0e59b8b2)
