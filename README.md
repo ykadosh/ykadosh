@@ -25,6 +25,6 @@
 
 ### 🌐 Sites
 
-[enscouto.com](https://web.archive.org/web/20200928112444/https://enscouto.com/) [Archived]
-[webdesk.co.il](https://web.archive.org/web/20200513171205/https://webdesk.co.il/) [Archived]
-[askupasoftware.com](https://web.archive.org/web/20200513100139/https://askupasoftware.com/) [Archived]
+- [enscouto.com](https://web.archive.org/web/20200928112444/https://enscouto.com/) [Archived]
+- [webdesk.co.il](https://web.archive.org/web/20200513171205/https://webdesk.co.il/) [Archived]
+- [askupasoftware.com](https://web.archive.org/web/20200513100139/https://askupasoftware.com/) [Archived]
