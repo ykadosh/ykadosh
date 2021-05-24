@@ -22,3 +22,9 @@
 - [Don’t Mix Controlled and Uncontrolled Values In React (medium.com)](https://betterprogramming.pub/dont-mix-controlled-uncontrolled-values-in-react-e7ab191d8dc4)
 - [Balancing Responsibilities in Software Components (medium.com)](https://medium.com/swlh/balancing-responsibilities-in-software-components-b0be0e59b8b2)
 - [Why Rewriting Is Essential for Keeping Software Alive (medium.com)](https://betterprogramming.pub/why-code-rewriting-is-essential-for-keeping-software-alive-81c7307e7f6)
+
+### 🌐 Sites
+
+[enscouto.com](https://web.archive.org/web/20200928112444/https://enscouto.com/) [Archived]
+[webdesk.co.il](https://web.archive.org/web/20200513171205/https://webdesk.co.il/) [Archived]
+[askupasoftware.com](https://web.archive.org/web/20200513100139/https://askupasoftware.com/) [Archived]
