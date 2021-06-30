@@ -17,6 +17,7 @@
 
 ### 📕 Latest Blog Posts
 
+- [How I Created These Generative Underline Pen Strokes (dev.to)](https://dev.to/ykadosh/underline-pen-strokes-randomly-generated-53k7)
 - [How I Made This Realistic Red Switch (dev.to)](https://dev.to/ykadosh/how-i-made-this-realistic-red-switch-pure-css-49g2)
 - [A Quick Overview of Webrix.js (dev.to)](https://dev.to/ykadosh/webrix-js-building-blocks-for-interactive-react-apps-4m54)
 - [Don’t Mix Controlled and Uncontrolled Values In React (medium.com)](https://betterprogramming.pub/dont-mix-controlled-uncontrolled-values-in-react-e7ab191d8dc4)
@@ -25,6 +26,7 @@
 
 ### 🌐 Sites
 
+- [gra.dient.art](https://gra.dient.art) - An advanced CSS gradient editor with transform tools (scale/move/rotate), backgroud stacking and free cloud storage.
 - [enscouto.com](https://web.archive.org/web/20200928112444/https://enscouto.com/) [Archived]
 - [webdesk.co.il](https://web.archive.org/web/20200513171205/https://webdesk.co.il/) [Archived]
 - [askupasoftware.com](https://web.archive.org/web/20200513100139/https://askupasoftware.com/) [Archived]
