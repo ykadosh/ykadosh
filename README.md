@@ -17,6 +17,7 @@
 
 ### 📕 Latest Blog Posts
 
+- [Gradient.art - Designing and Inspecting Complex CSS Gradients (dev.to)](https://dev.to/ykadosh/gradient-art-designing-and-inspecting-complex-css-gradients-4b06)
 - [How I Created These Generative Underline Pen Strokes (dev.to)](https://dev.to/ykadosh/underline-pen-strokes-randomly-generated-53k7)
 - [How I Made This Realistic Red Switch (dev.to)](https://dev.to/ykadosh/how-i-made-this-realistic-red-switch-pure-css-49g2)
 - [A Quick Overview of Webrix.js (dev.to)](https://dev.to/ykadosh/webrix-js-building-blocks-for-interactive-react-apps-4m54)
